@@ -1,0 +1,15 @@
+title: Disink
+description: 個人網站與技術筆記
+baseurl: ""
+url: "https://Disink.github.io" 
+
+theme: minima
+markdown: kramdown
+
+author:
+  name: Disink
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
